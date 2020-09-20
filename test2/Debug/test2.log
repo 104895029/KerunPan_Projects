@@ -1,0 +1,241 @@
+﻿  OpenGL_Project.cpp
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(114,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(416,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(418,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(419,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(420,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(421,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(426,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(428,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(430,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(431,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(431,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(432,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(432,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(433,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(438,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(440,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(441,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(442,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(443,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(448,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(450,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(452,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(453,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(453,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(454,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(454,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(455,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(461,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(463,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(464,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(465,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(466,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(471,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(473,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(474,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(475,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(476,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(481,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(483,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(485,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(485,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(486,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(486,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(487,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(487,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(488,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(488,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(493,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(498,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(500,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(501,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(502,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(503,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(514,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(516,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(516,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(517,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(517,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(518,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(522,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(524,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(524,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(525,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(525,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(526,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(527,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(536,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(538,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(538,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(539,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(539,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(540,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(544,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(546,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(546,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(547,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(547,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(548,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(549,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(562,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(563,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(581,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(583,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(583,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(584,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(584,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(585,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(585,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(586,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(586,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(592,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(592,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(593,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(593,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(594,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(594,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(595,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(595,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(599,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(601,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(601,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(602,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(602,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(603,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(603,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(604,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(604,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(608,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(610,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(610,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(611,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(611,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(612,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(612,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(613,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(613,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(617,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(619,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(619,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(620,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(620,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(621,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(621,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(622,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(622,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(626,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(628,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(628,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(629,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(629,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(630,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(630,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(631,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(631,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(636,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(638,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(638,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(639,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(639,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(640,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(640,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(641,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(641,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(645,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(647,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(647,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(648,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(648,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(649,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(649,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(650,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(650,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(654,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(656,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(656,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(657,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(657,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(658,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(658,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(659,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(659,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(663,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(665,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(665,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(666,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(666,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(667,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(667,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(668,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(668,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(672,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(674,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(674,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(675,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(675,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(676,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(676,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(677,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(677,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(681,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(683,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(683,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(684,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(684,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(685,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(685,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(686,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(686,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(691,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(691,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(693,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(693,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(695,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(695,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(697,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(697,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(742,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(743,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(744,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(745,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(750,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(755,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(756,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(756,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(757,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(757,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(758,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(774,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(779,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(783,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(788,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(789,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(791,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(791,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(799,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(799,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(800,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(800,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(801,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(801,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(802,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(802,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(808,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(808,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(809,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(809,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(810,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(810,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(811,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(811,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(817,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(817,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(818,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(818,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(819,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(819,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(820,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(820,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\OpenGL_Project.cpp(771,15): warning C4101: 'iGuess': unreferenced local variable
+  test2.vcxproj -> C:\Users\12269\Desktop\6thSemester\IntroToComputerGraphics\Assignment1\test2\Debug\test2.exe
